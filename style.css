@@ -505,6 +505,7 @@ hr {
 /* Clearing floats */
 .clear:after,
 #access:after,
+.menu:after,
 .site-main:after {
 	clear: both;
 }
@@ -512,6 +513,7 @@ hr {
 .clear:before,
 .clear:after,
 #access:after,
+.menu:after,
 .site-main:after {
 	content: "";
 	display: table;
